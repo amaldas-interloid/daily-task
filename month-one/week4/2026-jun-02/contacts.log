@@ -1,0 +1,13 @@
+2026-06-02 19:23:10,375 - WARNING - Invalid input for menu choice
+2026-06-02 19:24:05,055 - WARNING - Invalid input for menu choice
+2026-06-02 20:00:03,699 - WARNING - Failed to add contact: Invalid phone number. Must be 10 digits.
+2026-06-02 20:05:34,418 - WARNING - Failed to add contact: Invalid phone number. Must be 10 digits.
+2026-06-02 20:05:44,242 - WARNING - Invalid input for menu choice
+2026-06-02 20:06:11,776 - WARNING - Failed to add contact: Invalid phone number. Must be 10 digits.
+2026-06-02 20:06:21,218 - WARNING - Invalid input for menu choice
+2026-06-02 20:06:52,034 - INFO - Added contact: {'id': 1, 'data': {'name': 'amaldas', 'phone': '8778516709', 'email': 'das171018@gmail.com'}}
+2026-06-02 20:08:04,530 - INFO - Added contact: {'id': 2, 'data': {'name': 'naveen', 'phone': '7678990373', 'email': 'naveen@gmail.com'}}
+2026-06-02 20:10:57,105 - INFO - contacts saved successfully
+2026-06-02 20:12:06,832 - INFO - contacts loaded successfully
+2026-06-02 20:19:12,332 - INFO - Added contact: {'id': 1, 'data': {'name': 'amladas', 'phone': '1234567890', 'email': 'das15677@gmail.com'}}
+2026-06-02 20:19:31,604 - INFO - contacts saved successfully
