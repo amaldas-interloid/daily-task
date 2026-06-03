@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "data": {
+            "name": "amaldas",
+            "phone": "8778516709",
+            "email": "das171018@gmail.com"
+        }
+    },
+    {
+        "id": 2,
+        "data": {
+            "name": "naveen",
+            "phone": "7678990373",
+            "email": "naveen@gmail.com"
+        }
+    }
+]
